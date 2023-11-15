@@ -1,2 +1,6 @@
 Hello! My name is Gwak Dayeong.
 Kumoh National Institute of Technology.
+
+Computer Sciences
+C Programing
+Object-oriented programing.
